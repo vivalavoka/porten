@@ -1,0 +1,16 @@
+@import url(./__content/top-bar__content.css);
+@import url(./__menu/top-bar__menu.css);
+@import url(./__nav/top-bar__nav.css);
+@import url(./__list/top-bar__list.css);
+@import url(./__item/top-bar__item.css);
+@import url(./__link/top-bar__link.css);
+@import url(./__link/_active/top-bar__link_active.css);
+
+@import url(./__actions/top-bar__actions.css);
+@import url(./__action-icon/top-bar__action-icon.css);
+
+.top-bar {
+  background-color: #0F0F0F;
+  height: 80px;
+  overflow: hidden;
+}
