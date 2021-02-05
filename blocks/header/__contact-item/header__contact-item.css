@@ -1,0 +1,16 @@
+.header__contact-item {
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 1.2;
+  color: #969696;
+  margin-right: 12px;
+}
+
+.header__contact-item::after {
+  content: "|";
+  margin-left: 12px;
+}
+
+.header__contact-item:last-of-type::after {
+  content: "";
+}

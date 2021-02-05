@@ -1,0 +1,17 @@
+.header__sign-btn {
+  color: #969696;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 1.2;
+  margin: 0;
+}
+
+.header__sign-btn::after {
+  content: "/";
+  margin-left: 5px;
+}
+
+.header__sign-btn:last-of-type:after {
+  content: "";
+  margin: 0;
+}

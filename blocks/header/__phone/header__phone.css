@@ -1,0 +1,15 @@
+.header__phone {
+  color: #969696;
+  position: relative;
+  padding-left: 30px;
+}
+
+.header__phone::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 14px;
+  height: 14px;
+  background: url(../../../images/phone.svg) no-repeat;
+}
