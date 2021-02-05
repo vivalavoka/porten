@@ -1,0 +1,14 @@
+@import url(./__content/intro__content.css);
+@import url(./__title/intro__title.css);
+@import url(./__logo-wrapper/intro__logo-wrapper.css);
+@import url(./__logo/intro__logo.css);
+@import url(./__location/intro__location.css);
+@import url(./__description/intro__description.css);
+
+.intro {
+  background-image: url(../../images/lead-photo.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 810px;
+}

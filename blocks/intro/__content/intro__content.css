@@ -1,0 +1,9 @@
+.intro__content {
+  margin: auto;
+  max-width: 730px;
+  padding-top: 160px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
