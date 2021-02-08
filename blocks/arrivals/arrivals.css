@@ -1,0 +1,7 @@
+@import url(./__title/arrivals__title.css);
+@import url(./__list/arrivals__list.css);
+
+.arrivals {
+  max-width: 1110px;
+  margin: 0 auto 150px;
+}

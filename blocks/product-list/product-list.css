@@ -1,9 +1,4 @@
 .product-list {
   display: grid;
-  margin: 0 80px;
-  grid-template-columns: repeat(3, 1fr);
-  grid-template-rows: 1fr;
-  grid-gap: 50px;
-  height: 450px;
-  overflow-y: auto;
+
 }
