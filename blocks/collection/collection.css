@@ -1,11 +1,15 @@
 @import url(./__article/collection__article.css);
+@import url(./__content/_position/collection__content_position_left.css);
 @import url(./__title/collection__title.css);
+@import url(./__image/collection__image.css);
+@import url(./__description/collection__description.css);
 @import url(./__background/collection__background.css);
 @import url(./__content/collection__content.css);
 
 .collection {
+  margin-bottom: 50px;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  align-items: center;
+  align-items: stretch;
 }

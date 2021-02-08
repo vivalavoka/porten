@@ -6,6 +6,7 @@
 @import url(./__description/intro__description.css);
 
 .intro {
+  margin-bottom: 93px;
   background-image: url(../../images/lead-photo.png);
   background-position: center;
   background-repeat: no-repeat;
