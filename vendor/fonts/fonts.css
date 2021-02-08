@@ -1,15 +1,31 @@
 @font-face {
-  font-family: 'Inter';
+  font-family: 'PT Sans';
   font-style:  normal;
   font-weight: 400;
   font-display: swap;
-  src: url("./PTSansNarrow-Regular.ttf") format("ttf");
+  src: url("./PTSansNarrow-Regular.ttf");
 }
 
 @font-face {
-  font-family: 'Inter';
+  font-family: 'PT Sans';
   font-style:  normal;
   font-weight: 700;
   font-display: swap;
-  src: url("./PTSansNarrow-Bold.ttf") format("ttf");
+  src: url("./PTSansNarrow-Bold.ttf");
+}
+
+@font-face {
+  font-family: 'Playfair Display';
+  font-style:  normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("./PlayfairDisplay-Regular.ttf");
+}
+
+@font-face {
+  font-family: 'Playfair Display';
+  font-style:  normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("./PlayfairDisplay-Bold.ttf");
 }
