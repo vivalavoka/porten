@@ -1,0 +1,7 @@
+@import url(./__title/brands__title.css);
+@import url(./__list/brands__list.css);
+
+.brands {
+  background-color: #0F0F0F;
+  padding: 60px 0 74px;
+}
