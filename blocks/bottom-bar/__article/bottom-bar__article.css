@@ -1,0 +1,8 @@
+.bottom-bar__article {
+  width: 350px;
+  margin-right: 31px;
+}
+
+.bottom-bar__article:last-child {
+  margin-right: 0px;
+}

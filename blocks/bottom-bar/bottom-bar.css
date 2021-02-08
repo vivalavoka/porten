@@ -1,0 +1,12 @@
+@import url(./__content/bottom-bar__content.css);
+@import url(./__article/bottom-bar__article.css);
+@import url(./__title/bottom-bar__title.css);
+@import url(./__description/bottom-bar__description.css);
+@import url(./__tag-list/bottom-bar__tag-list.css);
+@import url(./__tag/bottom-bar__tag.css);
+
+.bottom-bar {
+  padding: 80px 0 99px;
+  background-color: #707070;
+  background: url(../../images/bar-background.png) no-repeat;
+}
