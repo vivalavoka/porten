@@ -13,3 +13,6 @@
 
 ## TODO
 
+- Fix colleciton block
+- Make adaptive layout
+- Move to `SCSS`
