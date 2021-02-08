@@ -1,5 +1,15 @@
-Верстка шаблона `Porten`
+# Layout Practice of the Porten project
 
-Ссылка на [Github Pages](https://vivalavoka.github.io/porten/)
+<a href="https://vivalavoka.github.io/porten/" target="_blank">Github Pages</a>
 
-Ссылка на шаблон [Figma](https://www.figma.com/file/xHjAxd90oUnfpTQ5NZnSoz/)
+## Free template in Figma
+
+<a href="https://www.figma.com/file/xHjAxd90oUnfpTQ5NZnSoz/" target="_blank">Porten</a>
+
+## Technologies
+
+- html5
+- css5
+
+## TODO
+
